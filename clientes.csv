@@ -1,0 +1,22 @@
+id_cliente,nombre,tipo,ciudad
+C000,Venta de mostrador (sin registro),Minorista,Guatemala
+C001,Cliente Minorista 01,Minorista,Guatemala
+C002,Cliente Minorista 02,Minorista,Villa Nueva
+C003,Cliente Minorista 03,Minorista,Quetzaltenango
+C004,Cliente Minorista 04,Minorista,Quetzaltenango
+C005,Cliente Minorista 05,Minorista,Guatemala
+C006,Cliente Minorista 06,Minorista,Mixco
+C007,Cliente Minorista 07,Minorista,Quetzaltenango
+C008,Cliente Minorista 08,Minorista,Quetzaltenango
+C009,Cliente Minorista 09,Minorista,Quetzaltenango
+C010,Cliente Minorista 10,Minorista,Antigua Guatemala
+C011,Cliente Minorista 11,Minorista,Quetzaltenango
+C012,Cliente Minorista 12,Minorista,Quetzaltenango
+C013,Cliente Minorista 13,Minorista,Antigua Guatemala
+C014,Cliente Minorista 14,Minorista,Quetzaltenango
+C015,Cliente Mayorista 01,Mayorista,Antigua Guatemala
+C016,Cliente Mayorista 02,Mayorista,Mixco
+C017,Cliente Mayorista 03,Mayorista,Guatemala
+C018,Cliente Mayorista 04,Mayorista,Quetzaltenango
+C019,Cliente Mayorista 05,Mayorista,Guatemala
+C020,Cliente Mayorista 06,Mayorista,Guatemala
